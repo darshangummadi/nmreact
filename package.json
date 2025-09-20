@@ -1,0 +1,25 @@
+{
+  "name": "nmreact",
+  "version": "1.0.0",
+  "description": "this is nam react by darshan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshangummadi/nmreact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Darshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshangummadi/nmreact/issues"
+  },
+  "homepage": "https://github.com/darshangummadi/nmreact#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
