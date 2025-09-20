@@ -2,7 +2,6 @@
   "name": "nmreact",
   "version": "1.0.0",
   "description": "this is nam react by darshan",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,12 @@
   "homepage": "https://github.com/darshangummadi/nmreact#readme",
   "devDependencies": {
     "parcel": "^2.16.0"
-  }
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
